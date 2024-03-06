@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This is Xiaohan. It's been year since I last use Github. Hope to learn more about it!
 <!--
 **ZhuShaw-han/ZhuShaw-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
